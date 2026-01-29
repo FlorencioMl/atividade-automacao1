@@ -10,3 +10,5 @@ const validarCPF = (cpf) => {
 };
 
 module.exports = { validarEmail, validarCPF };
+
+// Projeto de Testes TDD - Finalizado
